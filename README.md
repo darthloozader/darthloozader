@@ -6,7 +6,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINK-LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=ffb000&labelColor=0a192f&color=112b52)](https://linkedin.com/in/jonathan-luzader)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=ffb000&labelColor=0a192f&color=112b52)](https://linkedin.com/in/jonathan-luzader)
 [![Email](https://img.shields.io/badge/COMM-EMAIL-0a192f?style=for-the-badge&logo=maildotru&logoColor=ffb000&labelColor=0a192f&color=112b52)](mailto:luzaderj@gmail.com)
 
 </div>
