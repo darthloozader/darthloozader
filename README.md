@@ -17,7 +17,7 @@
 
 > *"Precision matters just as much in a packet capture as it does on a Boeing 767 flightline. If you can trace a fault in a hydraulic system, you can trace a vulnerability to a destination IP."*
 
-I spent over a decade keeping aircraft in the air — from **KC-135 tankers** in the U.S. Air Force to **Boeing 767 cargo jets** at UPS. I learned that complex systems fail quietly, that documentation saves lives, and that no fault tolerates a sloppy diagnosis.
+I spent over a decade keeping aircraft in the air — from KC-135 tankers in the U.S. Air Force to Boeing 767 cargo jets at UPS. I learned that complex systems fail quietly, that documentation saves lives, and that no fault tolerates a sloppy diagnosis.
 
 Now I apply that same discipline to cybersecurity. I build and attack my own homelab infrastructure, pursue network forensics, and work toward a B.S. in Cybersecurity and Information Assurance. The hardware changed. The mindset didn't.
 
