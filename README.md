@@ -105,6 +105,35 @@ Aviation maintenance built habits that directly map to security operations:
 | Crew coordination under pressure | SOC team ops / incident response |
 | Zero-fault-tolerance culture | Defense-in-depth mindset |
 
+## 🗂️ `[ MISSION FILES — LIVE PROJECTS ]`
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+  
+### ANALYZE NETWORK TRAFFIC
+ 
+**⚡ Used Wireshark to find — real threat actors, real malware**
+ 
+ Using network traffic capture, filtered for common malware vectors, found IoC. 
+ 
+<br>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-0a192f?style=for-the-badge&logo=wireshark&logoColor=ffb000&color=112b52)
+
+<br>
+
+![Analyze traffic for malware Preview](https://raw.githubusercontent.com/darthloozader/Using-Wireshark-To-Find-IoC/main/screenshots/configuration.png)
+
+<br>
+
+[![VIEW REPOSITORY](https://img.shields.io/badge/▶_VIEW_REPOSITORY-ffb000?style=for-the-badge&logoColor=0a192f&color=ffb000&labelColor=0a192f)](https://github.com/darthloozader/Using-Wireshark-To-Find-IoC)
+ 
+</td>
+
+</tr>
+</table>
+
 ---
 
 <div align="center">
