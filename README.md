@@ -75,20 +75,15 @@ Active, hands-on environment — not a classroom simulation.
 
 ---
 
-## 🏅 `[ CERTIFICATIONS ]`
+### 🏅 [ CERTIFICATIONS ]
+---
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  ✔  CompTIA A+               CERTIFIED   FEB 2026                       │
-│  ✔  CompTIA Network+         CERTIFIED   APR 2026                       │
-│  ✔  ITIL 4 Foundation        CERTIFIED   MAY 2026                       │
-│                                                                         │
-│  ▶  CompTIA Security+        IN PROGRESS                                │
-│  ○  CompTIA CySA+            NEXT VECTOR                                │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+|   | Certification | Status | Date |
+|:---|:---|:---|:---|
+| ✔ | ![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=flat-square) | CERTIFIED | FEB 2026 |
+| ✔ | ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=flat-square) | CERTIFIED | APR 2026 |
+| ✔ | ![ITIL](https://img.shields.io/badge/AXELOS-ITIL_4_Foundation-673AB7?style=flat-square) | CERTIFIED | MAY 2026 |
+| ▶ | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-lightgrey?style=flat-square) | IN PROGRESS | |
 
 ---
 
