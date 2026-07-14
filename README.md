@@ -125,7 +125,29 @@ Aviation maintenance built habits that directly map to security operations:
 [![VIEW REPOSITORY](https://img.shields.io/badge/▶_VIEW_REPOSITORY-ffb000?style=for-the-badge&logoColor=0a192f&color=ffb000&labelColor=0a192f)](https://github.com/darthloozader/Using-Wireshark-To-Find-IoC)
  
 </td>
+<td width="50%" valign="top">
 
+### AZURE HONEYPOT — LIVE THREAT INTEL
+
+**⚡ 60,000+ real brute-force attempts. 15+ countries. 18 hours.**
+
+Exposed a corporate developer VM in Azure, ingested logs into Microsoft Sentinel,
+wrote KQL to detect and geolocate threat actors in real time.
+
+<br>
+
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0a192f?style=for-the-badge&logo=microsoftazure&logoColor=ffb000&color=112b52)
+![KQL](https://img.shields.io/badge/KQL-0a192f?style=for-the-badge&logoColor=ffb000&color=112b52)
+
+<br>
+
+![Preview](https://raw.githubusercontent.com/darthloozader/Azure-Cloud-Honeypot/main/geoip_18hour.png)
+
+<br>
+
+[![VIEW REPOSITORY](https://img.shields.io/badge/▶_VIEW_REPOSITORY-ffb000?style=for-the-badge&logoColor=0a192f&color=ffb000&labelColor=0a192f)](https://github.com/darthloozader/Azure-Cloud-Honeypot)
+
+</td>
 </tr>
 </table>
 
