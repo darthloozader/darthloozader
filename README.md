@@ -83,7 +83,7 @@ Active, hands-on environment — not a classroom simulation.
 | ✔ | ![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=flat-square) | CERTIFIED | FEB 2026 |
 | ✔ | ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=flat-square) | CERTIFIED | APR 2026 |
 | ✔ | ![ITIL](https://img.shields.io/badge/AXELOS-ITIL_4_Foundation-673AB7?style=flat-square) | CERTIFIED | MAY 2026 |
-| ▶ | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-lightgrey?style=flat-square) | IN PROGRESS | |
+| ▶ | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-lightgrey?style=flat-square) | CERTIFIED | JULY 2026 |
 
 ---
 
